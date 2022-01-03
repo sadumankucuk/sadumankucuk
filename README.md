@@ -5,7 +5,7 @@
 
 <h3 align="left">A few quick facts</h3>
 - 🔭 I’m currently working with Nodejs, React Js, Mongodb, Javascript etc.<br/>
-- 🌱 I’m currently learning Full Stack Development. (Go, Vue Js)<br/>
+- 🌱 I’m currently learning Full Stack Development. (Go, Vue Js and TDD)<br/>
 - 💬 Ask me about, I am happy to help<br/>
 - 📫 How to reach me: <a href="mailto:sadumankucuk@gmail.com" target="_blank">sadumankucuk@gmail.com</a> <br/>
 
